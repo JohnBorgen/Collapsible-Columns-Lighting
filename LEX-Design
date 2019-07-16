@@ -1,0 +1,7 @@
+<design:component label="[HB Demo] Case Page Template 3 Collapsible Columns">
+    <flexipage:template >
+        <flexipage:region name="left"      defaultWidth="SMALL" />
+        <flexipage:region name="middle"    defaultWidth="MEDIUM" />
+        <flexipage:region name="right"     defaultWidth="SMALL" />
+    </flexipage:template>
+</design:component>
