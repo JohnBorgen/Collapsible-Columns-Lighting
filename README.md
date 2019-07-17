@@ -1,4 +1,4 @@
-# Collapsible-Columns-Lighting
+# Collapsible-Columns-Lightning
 *This document has sample code that is provided “As Is”, only as an example to show how *you can create a custom Page Template*. No support is available for this code. You should test your code extensively before moving it into a production environment.*
 
 1. Open a Case. Click on the Gear in the right hand top corner, click *Edit Page*. This will open the Case Record Detail page in Lightning App Builder.
